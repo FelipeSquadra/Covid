@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Covid</string>
+    <string name="covid">COVID-19</string>
+    <string name="information">INFORMAÇÕES</string>
+    <string name="sintomas">Sintomas</string>
+    <string name="informacao">Informação</string>
+    <string name="estatistica">Estatística</string>
+    <string name="informaçoes">Informações</string>
+    <string name="tema">Escolha um dos sintomas</string>
+    <string name="sintomas1">Escolha um dos sintomas. Ex : Febre Alta</string>
+    <string name="esolhadesintom">"Escolha um sintoma "</string>
+    <string name="escolhaumsintoma">sintoma</string>
+    <string name="escolhasintoma">Escolha um dos sintomas: Ex febre alta</string>
+    <string name="enviar">Enviar</string>
+</resources>
